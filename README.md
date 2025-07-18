@@ -1,5 +1,5 @@
 # SDE_Preparation_DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains all the problems I've solved on LeetCode.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
