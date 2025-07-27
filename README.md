@@ -8,6 +8,7 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/2058-concatenation-of-array) |
@@ -38,4 +39,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
