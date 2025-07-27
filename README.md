@@ -14,12 +14,18 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
