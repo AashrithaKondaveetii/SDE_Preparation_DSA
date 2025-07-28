@@ -10,6 +10,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
@@ -26,6 +27,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
@@ -40,11 +42,11 @@ This repository contains all the problems I've solved on LeetCode.
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
-
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,10 +56,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
-
 ## Merge Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
-
 <!---LeetCode Topics End-->
