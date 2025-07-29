@@ -13,6 +13,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
+| [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/2058-concatenation-of-array) |
@@ -45,6 +46,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +79,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
