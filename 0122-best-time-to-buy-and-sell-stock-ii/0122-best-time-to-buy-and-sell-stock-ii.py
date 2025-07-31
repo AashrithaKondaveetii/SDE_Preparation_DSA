@@ -5,11 +5,11 @@ class Solution:
         maxProfit = 0
         while r < len(prices):
             if prices[r] > prices[l]:
-                profit += prices[r] - prices[l]
-               
+                profit = prices[r] - prices[l]
+                maxProfit += profit
                 l += 1
             else:
                 l = r
             r += 1
-        return profit
+        return maxProfit
         
