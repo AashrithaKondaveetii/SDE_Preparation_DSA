@@ -15,6 +15,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0229-majority-element-ii) |
@@ -125,4 +126,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
