@@ -9,6 +9,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
@@ -129,5 +130,6 @@ This repository contains all the problems I've solved on LeetCode.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
