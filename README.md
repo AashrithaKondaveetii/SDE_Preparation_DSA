@@ -58,6 +58,7 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 ## Two Pointers
@@ -65,6 +66,7 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
