@@ -16,6 +16,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
@@ -133,6 +134,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
 ## Interactive
