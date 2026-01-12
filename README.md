@@ -26,6 +26,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +118,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +147,12 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
