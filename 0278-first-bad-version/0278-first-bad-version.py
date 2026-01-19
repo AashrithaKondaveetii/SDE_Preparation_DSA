@@ -10,4 +10,5 @@ class Solution:
                 h = m 
             else:
                 l = m + 1
-        return l
+        return h
+       
