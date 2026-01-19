@@ -13,6 +13,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0036-valid-sudoku](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Radix Sort
 |  |
 | ------- |
@@ -139,6 +141,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
