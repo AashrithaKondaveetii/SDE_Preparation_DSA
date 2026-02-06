@@ -6,6 +6,7 @@ class Codec:
         for s in strs:
             res += str(len(s)) + "#" + s
         return res
+        
 
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
@@ -21,8 +22,7 @@ class Codec:
             j = i + length
             res.append(s[i:j])
             i = j
-        return res         
-
+        return res
 
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
