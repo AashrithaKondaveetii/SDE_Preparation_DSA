@@ -158,4 +158,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
