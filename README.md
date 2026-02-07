@@ -19,6 +19,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0229-majority-element-ii) |
@@ -72,6 +73,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Divide and Conquer
 |  |
@@ -144,6 +146,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
