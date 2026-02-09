@@ -8,6 +8,7 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0036-valid-sudoku) |
@@ -46,6 +47,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
@@ -70,6 +72,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
