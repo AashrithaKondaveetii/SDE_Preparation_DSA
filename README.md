@@ -38,6 +38,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
@@ -67,6 +68,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
@@ -184,4 +186,8 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
