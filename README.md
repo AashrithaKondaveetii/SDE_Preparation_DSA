@@ -48,6 +48,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0229-majority-element-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,4 +192,5 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
