@@ -49,6 +49,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0567-permutation-in-string) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Divide and Conquer
 |  |
@@ -193,4 +196,5 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
