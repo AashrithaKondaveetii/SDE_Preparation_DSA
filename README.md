@@ -32,6 +32,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0239-sliding-window-maximum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
@@ -197,10 +198,12 @@ This repository contains all the problems I've solved on LeetCode.
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
