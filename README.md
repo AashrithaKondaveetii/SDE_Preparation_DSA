@@ -33,6 +33,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
@@ -65,6 +66,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0229-majority-element-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Simulation
@@ -199,11 +201,13 @@ This repository contains all the problems I've solved on LeetCode.
 | [0150-evaluate-reverse-polish-notation](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
