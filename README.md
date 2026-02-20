@@ -18,6 +18,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -198,6 +199,7 @@ This repository contains all the problems I've solved on LeetCode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
@@ -206,6 +208,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 ## Sliding Window
