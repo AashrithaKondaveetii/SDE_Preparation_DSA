@@ -33,6 +33,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0239-sliding-window-maximum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0853-car-fleet) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
@@ -177,6 +178,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
