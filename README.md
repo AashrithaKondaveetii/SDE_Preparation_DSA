@@ -7,6 +7,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0015-3sum) |
@@ -105,6 +106,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0948-sort-an-array) |
@@ -175,6 +177,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
