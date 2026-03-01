@@ -240,4 +240,12 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
