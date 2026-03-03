@@ -51,6 +51,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0049-group-anagrams](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0217-contains-duplicate) |
@@ -249,6 +250,7 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0206-reverse-linked-list) |
