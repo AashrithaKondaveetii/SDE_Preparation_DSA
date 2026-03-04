@@ -33,6 +33,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0238-product-of-array-except-self](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0271-encode-and-decode-strings) |
+| [0287-find-the-duplicate-number](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0739-daily-temperatures) |
@@ -106,6 +107,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0141-linked-list-cycle](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0567-permutation-in-string) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Divide and Conquer
@@ -189,6 +191,7 @@ This repository contains all the problems I've solved on LeetCode.
 | [0162-find-peak-element](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -199,6 +202,7 @@ This repository contains all the problems I've solved on LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/1755-closest-subsequence-sum) |
 ## Bitmask
 |  |
