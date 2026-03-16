@@ -279,4 +279,20 @@ This repository contains all the problems I've solved on LeetCode.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AashrithaKondaveetii/SDE_Preparation_DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
